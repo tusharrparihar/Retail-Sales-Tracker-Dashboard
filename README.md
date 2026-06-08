@@ -100,7 +100,6 @@ Strong and steady growth from 2015 to 2018, with YoY growth rising from ~20% to 
 ---
 
 ## 📌 Outcomes
-<img width="1217" height="434" alt="image" src="https://github.com/user-attachments/assets/56ec657e-d9e3-43f0-90fd-0e8087e73b51" />
 
 ### Key Metrics:
 - **Total Revenue:** $2.26M  
@@ -119,6 +118,7 @@ Strong and steady growth from 2015 to 2018, with YoY growth rising from ~20% to 
 ## 📊 Dashboard Preview
 
 Built in Microsoft Excel with interactive slicers for Year and Month filtering. All charts and KPIs update dynamically.
+<img width="1217" height="434" alt="image" src="https://github.com/user-attachments/assets/682b9a65-4a8e-484a-88e1-3250fd433a11" />
 
 ---
 
